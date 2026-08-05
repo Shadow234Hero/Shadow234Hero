@@ -1,6 +1,6 @@
 # 💫 About Me:
 Pratyush Kumar Daspattnaik
-B.Tech Engineering Student at DTU | AI/ML & Computer Vision Developer
+B.Tech Engineering Student| AI/ML & Computer Vision Developer
 
 📍 Sarita Vihar, Delhi, India
 
@@ -12,7 +12,7 @@ Core Languages & Tools: Python, C++, PyTorch, MediaPipe, Git/GitHub
 
 Technical Focus: Computer Vision, Machine Learning, AI Systems, Game Development
 
-Engineering Foundation: DTU Engineering Mathematics, Physics, & Systems Architecture
+Engineering Foundation: B.Tech CSE(AIML) student
 
 # Beyond Tech
 Athletics: Competitive striker training for regional Delhi football leagues.
