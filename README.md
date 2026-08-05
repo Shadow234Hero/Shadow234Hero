@@ -1,5 +1,5 @@
 # 💫 About Me:
-ratyush Kumar Daspattnaik
+Pratyush Kumar Daspattnaik
 
 Computer Science & AI/ML Enthusiast | B.Tech Student at Delhi Technological University (DTU)
 
