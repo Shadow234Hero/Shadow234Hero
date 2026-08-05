@@ -1,12 +1,12 @@
 # 💫 About Me:
 Pratyush Kumar Daspattnaik
 
-Computer Science & AI/ML Enthusiast | B.Tech Student at Delhi Technological University (DTU)
+Computer Science & AI/ML Enthusiast | B.Tech CSE(AIML) Student
 
 📍 Sarita Vihar, Delhi, India
 
 Overview
-I am an 18-year-old engineering student at DTU, active developer, and athlete driven by building scalable software, high-tier digital experiences, and AI-powered tools. My technical journey spans AI/ML systems, computer vision, and game development, alongside a strong foundation in core engineering disciplines.
+I am an 18-year-old engineering student, active developer, and athlete driven by building scalable software, high-tier digital experiences, and AI-powered tools. My technical journey spans AI/ML systems, computer vision, and game development, alongside a strong foundation in core engineering disciplines.
 
 Core Technical Skills
 Languages & Frameworks: Python, C++, MediaPipe, PyTorch
