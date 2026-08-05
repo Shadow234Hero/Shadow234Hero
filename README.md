@@ -7,19 +7,21 @@ B.Tech Engineering Student at DTU | AI/ML & Computer Vision Developer
 Overview
 Driven 18-year-old engineer, developer, and athlete specializing in AI/ML infrastructure, computer vision applications, and software engineering. Targeted at building high-performance systems and interactive digital platforms.
 
-Skills & Expertise
+# Skills & Expertise
 Core Languages & Tools: Python, C++, PyTorch, MediaPipe, Git/GitHub
 
 Technical Focus: Computer Vision, Machine Learning, AI Systems, Game Development
 
 Engineering Foundation: DTU Engineering Mathematics, Physics, & Systems Architecture
 
-Beyond Tech
+# Beyond Tech
 Athletics: Competitive striker training for regional Delhi football leagues.
 
 Interests: Graphics optimization, storytelling in gaming, and digital media production.
 
 Goal: Pursuing high-impact software engineering and AI developer roles at leading global tech organizations.
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1534526343650480291) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_afterfx.praty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyush-daspattnaik-3b1a46366/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyush.daspattnaik@gmail.com) 
 
